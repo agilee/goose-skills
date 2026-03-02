@@ -2,11 +2,7 @@
   "slug": "brand-voice-extractor",
   "category": "capabilities",
   "tags": [
-    "[brand-voice",
-    "writing-style",
-    "content-analysis",
-    "tone",
-    "copywriting]"
+    "brand"
   ],
   "installation": {
     "base_command": "npx goose-skills install brand-voice-extractor",
