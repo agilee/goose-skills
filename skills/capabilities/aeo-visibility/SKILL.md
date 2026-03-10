@@ -1,3 +1,11 @@
+---
+name: aeo-visibility
+description: >
+  Check how visible your company is across AI answer engines (ChatGPT, Claude, Gemini, Perplexity).
+  Profiles a company, generates test queries, runs visibility checks, and tracks trends over time.
+tags: [seo]
+---
+
 # AEO Visibility Checker
 
 Check how visible your company is across AI answer engines (ChatGPT, Claude, Gemini, Perplexity).
