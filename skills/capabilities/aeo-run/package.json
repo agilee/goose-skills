@@ -1,8 +1,0 @@
-{
-  "name": "aeo-run",
-  "version": "1.0.0",
-  "description": "Run an AEO visibility analysis across AI search engines",
-  "dependencies": {
-    "goose-aeo": "^0.1.0"
-  }
-}

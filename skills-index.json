@@ -138,140 +138,24 @@
       }
     },
     {
-      "slug": "aeo-audit",
-      "name": "aeo-audit",
+      "slug": "aeo",
+      "name": "aeo",
       "category": "capabilities",
       "description": ">",
       "tags": "seo",
-      "path": "skills/capabilities/aeo-audit",
+      "path": "skills/capabilities/aeo",
       "files": [
-        "skills/capabilities/aeo-audit/README.md",
-        "skills/capabilities/aeo-audit/SKILL.md",
-        "skills/capabilities/aeo-audit/package.json",
-        "skills/capabilities/aeo-audit/skill.meta.json"
+        "skills/capabilities/aeo/SKILL.md",
+        "skills/capabilities/aeo/skill.meta.json"
       ],
       "metadata": {
-        "slug": "aeo-audit",
+        "slug": "aeo",
         "category": "capabilities",
         "tags": [
           "seo"
         ],
         "installation": {
-          "base_command": "npx goose-skills install aeo-audit",
-          "supports": [
-            "claude",
-            "cursor",
-            "codex"
-          ]
-        }
-      }
-    },
-    {
-      "slug": "aeo-recommend",
-      "name": "aeo-recommend",
-      "category": "capabilities",
-      "description": ">",
-      "tags": "seo",
-      "path": "skills/capabilities/aeo-recommend",
-      "files": [
-        "skills/capabilities/aeo-recommend/README.md",
-        "skills/capabilities/aeo-recommend/SKILL.md",
-        "skills/capabilities/aeo-recommend/package.json",
-        "skills/capabilities/aeo-recommend/skill.meta.json"
-      ],
-      "metadata": {
-        "slug": "aeo-recommend",
-        "category": "capabilities",
-        "tags": [
-          "seo"
-        ],
-        "installation": {
-          "base_command": "npx goose-skills install aeo-recommend",
-          "supports": [
-            "claude",
-            "cursor",
-            "codex"
-          ]
-        }
-      }
-    },
-    {
-      "slug": "aeo-run",
-      "name": "aeo-run",
-      "category": "capabilities",
-      "description": ">",
-      "tags": "seo",
-      "path": "skills/capabilities/aeo-run",
-      "files": [
-        "skills/capabilities/aeo-run/README.md",
-        "skills/capabilities/aeo-run/SKILL.md",
-        "skills/capabilities/aeo-run/package.json",
-        "skills/capabilities/aeo-run/skill.meta.json"
-      ],
-      "metadata": {
-        "slug": "aeo-run",
-        "category": "capabilities",
-        "tags": [
-          "seo"
-        ],
-        "installation": {
-          "base_command": "npx goose-skills install aeo-run",
-          "supports": [
-            "claude",
-            "cursor",
-            "codex"
-          ]
-        }
-      }
-    },
-    {
-      "slug": "aeo-setup",
-      "name": "aeo-setup",
-      "category": "capabilities",
-      "description": ">",
-      "tags": "seo",
-      "path": "skills/capabilities/aeo-setup",
-      "files": [
-        "skills/capabilities/aeo-setup/README.md",
-        "skills/capabilities/aeo-setup/SKILL.md",
-        "skills/capabilities/aeo-setup/package.json",
-        "skills/capabilities/aeo-setup/skill.meta.json"
-      ],
-      "metadata": {
-        "slug": "aeo-setup",
-        "category": "capabilities",
-        "tags": [
-          "seo"
-        ],
-        "installation": {
-          "base_command": "npx goose-skills install aeo-setup",
-          "supports": [
-            "claude",
-            "cursor",
-            "codex"
-          ]
-        }
-      }
-    },
-    {
-      "slug": "aeo-visibility-monitor",
-      "name": "aeo-visibility-monitor",
-      "category": "composites",
-      "description": ">",
-      "tags": "seo",
-      "path": "skills/composites/aeo-visibility-monitor",
-      "files": [
-        "skills/composites/aeo-visibility-monitor/SKILL.md",
-        "skills/composites/aeo-visibility-monitor/skill.meta.json"
-      ],
-      "metadata": {
-        "slug": "aeo-visibility-monitor",
-        "category": "composites",
-        "tags": [
-          "seo"
-        ],
-        "installation": {
-          "base_command": "npx goose-skills install aeo-visibility-monitor",
+          "base_command": "npx goose-skills install aeo",
           "supports": [
             "claude",
             "cursor",

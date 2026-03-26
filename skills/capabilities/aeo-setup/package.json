@@ -1,8 +1,0 @@
-{
-  "name": "aeo-setup",
-  "version": "1.0.0",
-  "description": "Set up Goose AEO for a domain — interactive setup via AI agent",
-  "dependencies": {
-    "goose-aeo": "^0.1.0"
-  }
-}
