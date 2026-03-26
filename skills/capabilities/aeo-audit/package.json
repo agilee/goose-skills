@@ -1,0 +1,8 @@
+{
+  "name": "aeo-audit",
+  "version": "1.0.0",
+  "description": "Audit a website for AI search readability across 6 dimensions",
+  "dependencies": {
+    "goose-aeo": "^0.1.0"
+  }
+}

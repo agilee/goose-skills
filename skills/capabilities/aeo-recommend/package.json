@@ -1,0 +1,8 @@
+{
+  "name": "aeo-recommend",
+  "version": "1.0.0",
+  "description": "Generate recommendations for improving AI search visibility",
+  "dependencies": {
+    "goose-aeo": "^0.1.0"
+  }
+}
