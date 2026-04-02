@@ -10,6 +10,27 @@ npx goose-skills install <slug>
 
 This installs to `~/.claude/skills/<slug>/` by default (Claude Code target).
 
+## Skill Packs
+
+Install a curated group of related skills with one command:
+
+```bash
+npx goose-skills install lead-gen-devtools
+```
+
+Packs install each sub-skill independently to `~/.claude/skills/<skill>/`. Works with all platform targets:
+
+```bash
+npx goose-skills install lead-gen-devtools --codex
+npx goose-skills install lead-gen-devtools --cursor --project-dir /path/to/repo
+```
+
+### Available Packs
+
+| Pack | Skills | Description |
+|------|--------|-------------|
+| `lead-gen-devtools` | 6 | Lead generation toolkit: discovery orchestrator, GitHub repo signals, community signals, competitor signals, event signals, and demo builder |
+
 ## Platform Targets
 
 Use one target flag per install:
