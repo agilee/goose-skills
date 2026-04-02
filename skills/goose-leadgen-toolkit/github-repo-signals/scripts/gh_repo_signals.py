@@ -23,7 +23,7 @@ import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from tools.gh_common import (
+from scripts.gh_common import (
     gh_api,
     gh_api_paginate,
     gh_api_paginate_backward,

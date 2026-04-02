@@ -15,7 +15,7 @@ import urllib.parse
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from tools.gh_common import (
+from scripts.gh_common import (
     gh_search,
     batch_get_user_profiles,
     write_csv,
